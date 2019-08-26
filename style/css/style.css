@@ -1,0 +1,4 @@
+.aHeader{background-color: #EEEEEE;height: 150px;}
+.aHeader .bLogo{display: inline-block;width: 10%; height: 150px;background-color: #111111;}
+.aHeader .bTitle{display: inline-block;vertical-align: top;}
+.aHeader .bTitle h1{margin: 0px;}
