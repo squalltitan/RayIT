@@ -13,8 +13,14 @@
 .aMainer-2{width: 1680px;margin: auto auto;background-color: #EEEEEE;height: 50px;}
 .aMainer-2 .ul-selection-2{margin:0px;list-style-type: none;padding: 0px;text-align: center;}
 .aMainer-2 .ul-selection-2 .li-selection-2{background-color: #CCCCCC;height: 50px;display: inline-block;vertical-align: top;width: 15%;text-align: center;line-height: 50px;margin: 0px 30px;}
-.aMainer-2 .ul-selection-2 .li-selection-2 .ul-subselection{list-style-type: none;padding: 0px;display:none;background: #FFFFFF}
+.aMainer-2 .ul-selection-2 .li-selection-2 .ul-subselection{list-style-type: none;padding: 0px;display:none;background: #CCCCCC}
 .aMainer-2 .ul-selection-2 .li-selection-2:hover .ul-subselection{display: block;}
-.aMainer-2 .ul-selection-2 .li-selection-2 a{display:block;text-decoration: none;}
+.aMainer-2 .ul-selection-2 .li-selection-2 a{display:block;text-decoration: none;color: #000000;}
+.aMainer-2 .ul-selection-2 .li-selection-2 .ul-subselection .li-subselection:hover a{color: #000000;}
+.aMainer-2 .ul-selection-2 .li-selection-2 .ul-subselection .li-subselection:hover {background-color: #FFFFFF;}
 
-.aMainer-3{width: 1680px;margin: auto auto;height: 500px;background-color: #AAAAAA;}
+.aMainer-3{width: 1680px;margin: auto auto;height: 500px;background-color: #FFFFFF;}
+
+.aMainer-4{width: 1680px;margin: auto auto;height: 300px;background-color: #EEEEEE;}
+
+.aFooter{width:100%;height: 100px;background-color: #FFFFFF;position: fixed;bottom:0px;}
