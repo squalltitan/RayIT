@@ -19,8 +19,12 @@
 .aMainer-2 .ul-selection-2 .li-selection-2 .ul-subselection .li-subselection:hover a{color: #000000;}
 .aMainer-2 .ul-selection-2 .li-selection-2 .ul-subselection .li-subselection:hover {background-color: #FFFFFF;}
 
-.aMainer-3{width: 1680px;margin: auto auto;height: 500px;background-color: #FFFFFF;}
-
+.aMainer-3{width: 1680px;margin: auto auto;height: 500px; background-image: url(../pic/background.jpg);background-size: 1200px;background-repeat: no-repeat;background-position:center -60px;}
 .aMainer-4{width: 1680px;margin: auto auto;height: 300px;background-color: #EEEEEE;}
 
-.aFooter{width:100%;height: 100px;background-color: #FFFFFF;position: fixed;bottom:0px;}
+.aFooter{width:100%;height: 100px;background-color: #FFFFFF;position: fixed;bottom:0px;padding-top: 20px;padding-left: 300px;}
+.aFooter .bName {display: inline-block;}
+.aFooter .bDescription{display: inline-block;}
+.aFooter h6{margin: 0px;}
+.aFooter .h6-11{padding-left:275px; letter-spacing: 3px;}
+.aFooter .h6-12{position: absolute;top:20px;right: 500px;}
