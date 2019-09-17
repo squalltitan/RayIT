@@ -1,6 +1,7 @@
 
-.aHeader{background-color: #EEEEEE;height: 150px;width: 1680px;margin: auto auto;}
-.aHeader .bLogo{display: inline-block;width: 10%; height: 150px;background-color: #111111;}
+.aHeader {background-image: url(../pic/aheader-1.jpg);height: 120px;width: 1680px;margin: auto auto;}
+.aHeader .bLogo{display: inline-block;width: 10%;background-image: url(../pic/logo.png);background-repeat: no-repeat;background-position:center;}
+.aHeader .bLogo .linkLogo{display: block;height: 120px;}
 .aHeader .bTitle{display: inline-block;vertical-align: top;font-family: 'Noto Sans TC', sans-serif}
 .aHeader .bTitle h1{margin: 0px;font-size: 48px;padding-left: 200px;padding-top:20px;font-weight: 900;padding-bottom:5px;}
 .aHeader .bTitle i{font-size: 24px;padding-left: 600px;letter-spacing: 2px;}
